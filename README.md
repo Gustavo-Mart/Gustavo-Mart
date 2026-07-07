@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:6d28d9&height=220&section=header&text=Gustavo%20Martins&fontSize=46&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Data%20%26%20ML&descAlignY=55&descSize=18" width="100%"/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UniSantos;Full+Stack+Developer+%7C+React+%2B+Node.js;Explorando+Data+Science+%26+Machine+Learning;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
 </a>
@@ -7,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/UniSantos-CS%20%7C%20Grad%202027-6d28d9?style=for-the-badge&labelColor=1a0b2e"/>
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-7c3aed?style=for-the-badge&labelColor=1a0b2e&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-7c3aed?style=for-the-badge&labelColor=1a0b2e&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-S%C3%A3o%20Vicente%2C%20SP%20--%20Brasil-8b5cf6?style=for-the-badge&labelColor=1a0b2e&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
@@ -176,7 +178,7 @@ Projeto de estudo aplicado, cobrindo o pipeline de dados de ponta a ponta: da li
 
 **AWS**
 
-<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
 
 </div>
 
@@ -188,15 +190,14 @@ Projeto de estudo aplicado, cobrindo o pipeline de dados de ponta a ponta: da li
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Mart&show_icons=true&theme=dark&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff&ring_color=6d28d9" width="48%"/>
+<img src="./profile/stats.svg" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Mart&theme=dark&hide_border=true&background=0d0221&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Mart&layout=compact&theme=dark&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e9d5ff" width="48%"/>
+<img src="./profile/top-langs.svg" width="48%"/>
 
 </div>
-
 <br/>
 
 ---
@@ -225,6 +226,53 @@ Projeto de estudo aplicado, cobrindo o pipeline de dados de ponta a ponta: da li
 
 ---
 
+```yaml
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # roda todo dia às 3h (UTC)
+  workflow_dispatch:        # permite rodar manualmente
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff&ring_color=6d28d9
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e9d5ff
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README stats cards" || exit 0
+          git push
+```
+<br/>
+
+---
+
 ## 🐍 Snake
 
 <div align="center">
@@ -232,9 +280,6 @@ Projeto de estudo aplicado, cobrindo o pipeline de dados de ponta a ponta: da li
 <img src="https://raw.githubusercontent.com/Gustavo-Mart/Gustavo-Mart/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
-
-> Nota: a animação da snake só aparece se houver um workflow do GitHub Actions configurado no repositório `Gustavo-Mart/Gustavo-Mart` para gerá-la — não tenho como confirmar se esse workflow já existe no seu perfil.
-
 <br/>
 
 ---
