@@ -1,29 +1,29 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:6d28d9&height=220&section=header&text=Gustavo%20Martins&fontSize=46&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Data%20%26%20ML&descAlignY=55&descSize=18](https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:6d28d9&height=220&section=header&text=Gustavo%20Martins&fontSize=46&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Data%20%26%20ML&descAlignY=55&descSize=18)" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:6d28d9&height=220&section=header&text=Gustavo%20Martins&fontSize=46&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Data%20%26%20ML&descAlignY=55&descSize=18" width="100%"/>
 
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UniSantos;Full+Stack+Developer+%7C+React+%2B+Node.js;Explorando+Data+Science+%26+Machine+Learning;AWS+Certified+Cloud+Practitioner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UniSantos;Full+Stack+Developer+%7C+React+%2B+Node.js;Explorando+Data+Science+%26+Machine+Learning;AWS+Certified+Cloud+Practitioner)" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UniSantos;Full+Stack+Developer+%7C+React+%2B+Node.js;Explorando+Data+Science+%26+Machine+Learning;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
   </a>
   <br/>
-  <img src="[https://img.shields.io/badge/UniSantos-CS%20%7C%20Grad%202027-6d28d9?style=for-the-badge&labelColor=1a0b2e](https://img.shields.io/badge/UniSantos-CS%20%7C%20Grad%202027-6d28d9?style=for-the-badge&labelColor=1a0b2e)"/>
-  <img src="[https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-7c3aed?style=for-the-badge&labelColor=1a0b2e&logo=amazonwebservices&logoColor=white](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-7c3aed?style=for-the-badge&labelColor=1a0b2e&logo=amazonwebservices&logoColor=white)"/>
-  <img src="[https://img.shields.io/badge/Location-S%C3%A3o%20Vicente%2C%20SP%20--%20Brasil-8b5cf6?style=for-the-badge&labelColor=1a0b2e&logo=googlemaps&logoColor=white](https://img.shields.io/badge/Location-S%C3%A3o%20Vicente%2C%20SP%20--%20Brasil-8b5cf6?style=for-the-badge&labelColor=1a0b2e&logo=googlemaps&logoColor=white)"/>
+  <img src="https://img.shields.io/badge/UniSantos-CS%20%7C%20Grad%202027-6d28d9?style=for-the-badge&labelColor=1a0b2e"/>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-7c3aed?style=for-the-badge&labelColor=1a0b2e&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-S%C3%A3o%20Vicente%2C%20SP%20--%20Brasil-8b5cf6?style=for-the-badge&labelColor=1a0b2e&logo=googlemaps&logoColor=white"/>
   <br/><br/>
 
-  <a href="[https://www.linkedin.com/in/gustavo-martins-a4a8a026a](https://www.linkedin.com/in/gustavo-martins-a4a8a026a)">
-    <img src="[https://img.shields.io/badge/LinkedIn-Connect-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+  <a href="https://www.linkedin.com/in/gustavo-martins-a4a8a026a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gustavo.mrtins04@hotmail.com">
-    <img src="[https://img.shields.io/badge/Email-Contact-6d28d9?style=for-the-badge&logo=maildotru&logoColor=white](https://img.shields.io/badge/Email-Contact-6d28d9?style=for-the-badge&logo=maildotru&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/Email-Contact-6d28d9?style=for-the-badge&logo=maildotru&logoColor=white"/>
   </a>
-  <a href="[https://github.com/Gustavo-Mart](https://github.com/Gustavo-Mart)">
-    <img src="[https://img.shields.io/badge/GitHub-Profile-8b5cf6?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Profile-8b5cf6?style=for-the-badge&logo=github&logoColor=white)"/>
+  <a href="https://github.com/Gustavo-Mart">
+    <img src="https://img.shields.io/badge/GitHub-Profile-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <br/><br/>
 
-  <img src="[https://komarev.com/ghpvc/?username=Gustavo-Mart&style=for-the-badge&color=6d28d9&labelColor=1a0b2e](https://komarev.com/ghpvc/?username=Gustavo-Mart&style=for-the-badge&color=6d28d9&labelColor=1a0b2e)" alt="profile views"/>
-  <img src="[https://img.shields.io/github/followers/Gustavo-Mart?style=for-the-badge&color=7c3aed&labelColor=1a0b2e&logo=github](https://img.shields.io/github/followers/Gustavo-Mart?style=for-the-badge&color=7c3aed&labelColor=1a0b2e&logo=github)" alt="followers"/>
-  <img src="[https://img.shields.io/github/stars/Gustavo-Mart?style=for-the-badge&color=8b5cf6&labelColor=1a0b2e](https://img.shields.io/github/stars/Gustavo-Mart?style=for-the-badge&color=8b5cf6&labelColor=1a0b2e)" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Gustavo-Mart&style=for-the-badge&color=6d28d9&labelColor=1a0b2e" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Gustavo-Mart?style=for-the-badge&color=7c3aed&labelColor=1a0b2e&logo=github" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Gustavo-Mart?style=for-the-badge&color=8b5cf6&labelColor=1a0b2e" alt="stars"/>
 </div>
 
 <br/>
@@ -46,16 +46,16 @@ Gosto de entender o sistema de ponta a ponta: modelagem de dados, arquitetura da
 <div align="center">
   
 **Linguagens**<br/>
-<img src="[https://skillicons.dev/icons?i=js,ts,python,java,c](https://skillicons.dev/icons?i=js,ts,python,java,c)" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c" /><br/><br/>
 
 **Frontend**<br/>
-<img src="[https://skillicons.dev/icons?i=react,vite,tailwind,html,css](https://skillicons.dev/icons?i=react,vite,tailwind,html,css)" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" /><br/><br/>
 
 **Backend & Databases**<br/>
-<img src="[https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br/><br/>
 
 **Cloud, DevOps & Tooling**<br/>
-<img src="[https://skillicons.dev/icons?i=aws,git,github,vscode,eslint](https://skillicons.dev/icons?i=aws,git,github,vscode,eslint)" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,eslint" />
 
 </div>
 
@@ -128,7 +128,7 @@ Gosto de entender o sistema de ponta a ponta: modelagem de dados, arquitetura da
 <div align="center">
   
 **AWS**<br/>
-<img src="[https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)"/>
+<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
 
 </div>
 
@@ -138,7 +138,7 @@ Gosto de entender o sistema de ponta a ponta: modelagem de dados, arquitetura da
 
 <div align="center">
   <img src="./profile/stats.svg" width="48%" alt="GitHub Stats"/>
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Mart&theme=dark&hide_border=true&background=0d0221&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Mart&theme=dark&hide_border=true&background=0d0221&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa)" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Mart&theme=dark&hide_border=true&background=0d0221&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa" width="48%" alt="GitHub Streak"/>
   <br/>
   <img src="./profile/top-langs.svg" width="48%" alt="Top Languages"/>
 </div>
@@ -148,7 +148,48 @@ Gosto de entender o sistema de ponta a ponta: modelagem de dados, arquitetura da
 ## 📈 Atividade de Contribuição
 
 <div align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-Mart&theme=react-dark&hide_border=true&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=e9d5ff](https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-Mart&theme=react-dark&hide_border=true&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=e9d5ff)" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-Mart&theme=react-dark&hide_border=true&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=e9d5ff" width="95%" alt="Activity Graph"/>
 </div>
 
 <br/>
+
+## 🔭 Foco Atual
+
+**Learning:**
+- Machine Learning aplicado (feature engineering, tuning de modelos)
+- Arquitetura de software (microservices, padrões MVC)
+
+**Building:**
+- Projetos full stack com React + Node.js
+- Pipelines de dados em Python
+
+**Exploring:**
+- AWS além do nível Cloud Practitioner
+- Boas práticas de TypeScript em aplicações reais
+
+**Open To:**
+- Estágio / vaga Junior em desenvolvimento
+- Projetos de Data Science e ML
+
+<br/>
+
+## 📫 Connect
+
+<div align="center">
+  <a href="mailto:gustavo.mrtins04@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-martins-a4a8a026a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Gustavo-Mart">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Código bem escrito é a diferença entre resolver um problema e criar o próximo."</i><br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1a0b2e&height=120&section=footer" width="100%"/>
+</div>
