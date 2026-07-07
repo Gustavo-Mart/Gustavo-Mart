@@ -78,8 +78,6 @@ Gosto de entender o sistema de ponta a ponta: modelagem de dados, arquitetura da
 
 </div>
 
-> Stack confirmada: React (Vite), TypeScript, JavaScript, Node.js, Express, MongoDB/Mongoose, SQL Server, Tailwind CSS, Python, Java, C, Git/GitHub, Zod, integrações Stripe/Mercado Pago.
-
 <br/>
 
 ---
@@ -96,8 +94,6 @@ Gosto de entender o sistema de ponta a ponta: modelagem de dados, arquitetura da
 | **Ambiente** | Praticante | Google Colab, SQLite |
 
 </div>
-
-> Não tenho certeza de como classificar precisamente cada nível de proficiência — os rótulos acima refletem apenas os projetos práticos já realizados, não uma autoavaliação formal.
 
 <br/>
 
@@ -198,17 +194,6 @@ Projeto de estudo aplicado, cobrindo o pipeline de dados de ponta a ponta: da li
 <img src="./profile/top-langs.svg" width="48%"/>
 
 </div>
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gustavo-Mart&theme=algolia&no-frame=true&margin-w=10&column=7" />
-
-</div>
 
 <br/>
 
@@ -225,6 +210,10 @@ Projeto de estudo aplicado, cobrindo o pipeline de dados de ponta a ponta: da li
 <br/>
 
 ---
+
+## ⚙️ Como ativar os cards de stats (GitHub Actions)
+
+Os cards de "Total Contributions" e "Top Languages" acima apontam para `./profile/stats.svg` e `./profile/top-langs.svg` — arquivos que ainda não existem no seu repositório. Para gerá-los, crie o arquivo `.github/workflows/grs.yml` no repositório `Gustavo-Mart/Gustavo-Mart` com o conteúdo abaixo. Essa configuração é a documentada oficialmente no README do projeto `anuraghazra/github-readme-stats`:
 
 ```yaml
 name: Update README cards
@@ -269,17 +258,9 @@ jobs:
           git commit -m "Update README stats cards" || exit 0
           git push
 ```
-<br/>
 
----
+Depois de criar o arquivo, vá em **Actions → Update README cards → Run workflow** para gerar os SVGs pela primeira vez. Depois disso, ele roda sozinho todo dia.
 
-## 🐍 Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gustavo-Mart/Gustavo-Mart/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
 <br/>
 
 ---
