@@ -28,8 +28,8 @@
 <br/>
 
 ## About Me
-Sou estudante de Ciência da Computação na UniSantos (formatura prevista para dezembro de 2027), com formação técnica em programação pela Escola e Faculdade Fortec e certificação AWS Certified Cloud Practitioner.
-Trabalho no desenvolvimento full stack — do front-end em React/TypeScript ao back-end em Node.js/Express com bancos SQL e NoSQL — e venho me aprofundando em ciência de dados e machine learning, aplicando esse conhecimento em projetos práticos com dados reais.
+Sou estudante de Ciência da Computação na Unisantos, com formação técnica em programação pela Fortec e certificação AWS Certified Cloud Practitioner.
+Trabalho no desenvolvimento full stack — do front-end em React/TypeScript ao back-end em Node.js com bancos SQL e NoSQL — e venho me aprofundando em ciência de dados e machine learning, aplicando esse conhecimento em projetos práticos com dados reais.
 Gosto de entender o sistema de ponta a ponta: modelagem de dados, arquitetura da aplicação, e a experiência final do usuário.
 
 <br/>
@@ -39,7 +39,7 @@ Gosto de entender o sistema de ponta a ponta: modelagem de dados, arquitetura da
 <div align="center">
   
 **Linguagens**<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs" /><br/><br/>
 
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" /><br/><br/>
@@ -48,13 +48,9 @@ Gosto de entender o sistema de ponta a ponta: modelagem de dados, arquitetura da
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br/><br/>
 
 **Cloud, DevOps & Tooling**<br/>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,eslint" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma" />
 
 </div>
-
-<br/>
-
-<br/>
 
 ## 🎓 Certificações
 
@@ -64,8 +60,6 @@ Gosto de entender o sistema de ponta a ponta: modelagem de dados, arquitetura da
 <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
 
 </div>
-
-<br/>
 
 ## 📫 Connect
 
