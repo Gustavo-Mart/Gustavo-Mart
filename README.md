@@ -6,7 +6,7 @@
   <br/>
   <img src="https://img.shields.io/badge/UniSantos-CS%20%7C%20Grad%202027-6d28d9?style=for-the-badge&labelColor=1a0b2e"/>
   <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-7c3aed?style=for-the-badge&labelColor=1a0b2e&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-S%C3%A3o%20Vicente%2C%20SP%20--%20Brasil-8b5cf6?style=for-the-badge&labelColor=1a0b2e&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-SP%20--%20Brasil-8b5cf6?style=for-the-badge&labelColor=1a0b2e&logo=googlemaps&logoColor=white"/>
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/gustavo-martins-a4a8a026a">
@@ -28,10 +28,7 @@
 <br/>
 
 ## About Me
-Sou estudante de Ciência da Computação na Unisantos, com formação técnica em programação pela Fortec e certificação AWS Certified Cloud Practitioner.
-Trabalho no desenvolvimento full stack — do front-end em React/TypeScript ao back-end em Node.js com bancos SQL e NoSQL — e venho me aprofundando em ciência de dados e machine learning, aplicando esse conhecimento em projetos práticos com dados reais.
-Gosto de entender o sistema de ponta a ponta: modelagem de dados, arquitetura da aplicação, e a experiência final do usuário.
-
+Sou estudante de Ciência da Computação na Unisantos, com formação técnica em programação pela Fortec e certificação AWS Certified Cloud Practitioner. Trabalho no desenvolvimento full stack, do front-end em React/TypeScript ao back-end em Node.js com bancos SQL e NoSQL, e venho me aprofundando em ciência de dados e machine learning, aplicando esse conhecimento em projetos práticos com dados reais. Gosto de entender o sistema de ponta a ponta: modelagem de dados, arquitetura da aplicação e a experiência final do usuário.
 <br/>
 
 ## 🛠️ Tech Stack
